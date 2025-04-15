@@ -1,5 +1,3 @@
-import javax.xml.namespace.QName;
-
 public class Rider {
 
     private String name;
